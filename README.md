@@ -3,4 +3,8 @@ This is a personal project intended to just provide some insight to a friend of 
 
 After performing some webscraping using the YouTube Data API, analytics will be performed to provide some insight on what variables are relative to video success (in terms of viewcount)
 
+# **TO-DO's**
+  - Finalize webscraper and output variables to a csv
+  - Redevelop a new predictor model
+
 
