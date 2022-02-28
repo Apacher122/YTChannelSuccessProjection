@@ -1,8 +1,8 @@
 # SECURE YOUTUBE API KEY HERE
-youTubeAPIKey = 
+youTubeAPIKey = ""
 
 # Channel ID of you're choosing
-youtubeID = "UCwG60McbuKGsj53_JLoY-9Q"
+youtubeID = ""
 
 # Use to parse all videos
-listID = "UUwG60McbuKGsj53_JLoY-9Q"
+listID = ""
